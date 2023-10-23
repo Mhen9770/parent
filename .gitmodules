@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/Mhen9770/child.git
